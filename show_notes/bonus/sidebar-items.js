@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["_1","Polyglot programming promises and perils"],["_2","Legacy code"],["_3","Building as a community"],["_4","We *can* have nice things"]]});
